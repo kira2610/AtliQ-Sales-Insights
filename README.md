@@ -1,2 +1,2 @@
-# Sales-Insights
+# ATLIQ Sales-Insights
 SQL, Power BI
